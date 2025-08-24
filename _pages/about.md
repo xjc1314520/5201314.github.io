@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 你好，这里是fo的小站，这里没什么可以看的
-tips:旁边有友链
+tips/旁边有友链
