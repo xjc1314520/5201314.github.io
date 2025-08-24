@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:小站
+title: 小站
 author_profile: true
 redirect_from: 
   - /about/
