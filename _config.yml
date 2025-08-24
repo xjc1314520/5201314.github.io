@@ -22,7 +22,7 @@ repository               : "不想加"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "<a href="https://imgse.com/i/pVsxxWn"><img src="https://s21.ax1x.com/2025/08/25/pVsxxWn.jpg" alt="pVsxxWn.jpg" border="0" /></a>" # 头像
+  avatar           : "<a href=”https://s21.ax1x.com/2025/08/25/pVsxxWn.jpg # 头像
   name             : "f"
   pronouns         : “额” # example: "she/her"  
   bio              : "个人介绍"
