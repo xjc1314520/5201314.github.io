@@ -21,16 +21,7 @@ repository               : "不想加"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "https://s21.ax1x.com/2025/08/25/pVsxxWn.jpg” # 头像
-  name             : "f"
-  pronouns         : “额” # example: "she/her"  
-  bio              : "个人介绍"
-  location         : "住址"
-  employer         : "不告诉你学历"
-  uri              : # URL
-  email            : "发送邮箱给我 :xuejingcheng12345@gmail.com" 
-
+ 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
